@@ -1,4 +1,7 @@
+<img src='artifacts/logo.png'/>
+
 # Getting Started with Kaggle Challenges
+
 This my guide on how I started with the Kaggle challenges after having a fair amount of knowledge in deep learning.<br>
 <br>
 ## Pre-requisites:
