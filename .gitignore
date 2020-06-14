@@ -1,1 +1,6 @@
 *checkpoints*
+*.csv
+*.zip
+*.log
+*metastore_db*
+data/
